@@ -1,0 +1,8 @@
+with-compiler: ghc-8.4.4
+
+packages: .
+
+source-repository-package
+    type: git
+    location: https://github.com/capital-match/ixset-typed
+    tag: 758bf8230816832469292baede749485b3413334
